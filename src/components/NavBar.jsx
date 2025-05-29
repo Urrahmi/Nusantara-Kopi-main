@@ -45,7 +45,7 @@ function NavBar() {
               href="/produk"
               className="hover:bg-amber-700 text-white py-3 px-4 rounded-md"
             >
-              Product
+              Produk
             </a>
           </li>
         </ul>
